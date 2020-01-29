@@ -160,7 +160,7 @@ Untracked files:
 * origin말고 원하는 이름을 설정해도 무방하지만, 일반적으로 origin을 사용한다. 
 
 ```bash
-$ gir remote add origin github_url
+$ git remote add origin github_url
 ```
 
 아래 명령어를 통해 저장된 원격 저장소 목록을 확인할 수 있다. 
